@@ -1,5 +1,8 @@
 # Logo-generator
 Python Notebook of Logo generator leveraging Dalle3. Latest version uses a fine tuned SDXL model
+
+Few Examples of logos made using the notebook
+
 ![gen_logo (10)](https://github.com/wahab-abdul-tcgls/Logo-generator/assets/154884152/6dd4bc7c-170d-4d39-8589-8631d8d8a303)
 ![gen_logo (9)](https://github.com/wahab-abdul-tcgls/Logo-generator/assets/154884152/d00b179a-9802-4119-8693-7ab089e65f6b)
 ![logo (3)](https://github.com/wahab-abdul-tcgls/Logo-generator/assets/154884152/3c11dfaa-7250-4471-b357-1d332f2948b6)
